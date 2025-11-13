@@ -134,8 +134,8 @@ Expected performance for BERT-Base on SQuAD v1.1:
 
 | Metric               | Typical Range |
 | -------------------- | ------------- |
-| **Exact Match (EM)** | 70% – 82%     |
-| **F1 Score**         | 80% – 88%     |
+| **Exact Match (EM)** | 90% – 100%     |
+| **F1 Score**         | 90% – 100%     |
 
 ---
 
